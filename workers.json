@@ -1,0 +1,58 @@
+{
+  "ankkaaku": {
+    "first": "Aku",
+    "last": "Ankka",
+    "role": "Semiboss",
+    "supervisor": "ankkaroope"
+  },
+  "ankkaroope": {
+    "first": "Roope",
+    "last": "Ankka",
+    "role": "Superboss",
+    "supervisor": null
+  },
+  "ankkaiines": {
+    "first": "Iines",
+    "last": "Ankka",
+    "role": "Semiboss",
+    "supervisor": "ankkaroope"
+  },
+  "ankkatupu": {
+    "first": "Tupu",
+    "last": "Ankka",
+    "role": "Employee",
+    "supervisor": "ankkaaku"
+  },
+  "ankkahupu": {
+    "first": "Hupu",
+    "last": "Ankka",
+    "role": "Trainee",
+    "supervisor": "ankkalupu"
+  },
+  "ankkalupu": {
+    "first": "Lupu",
+    "last": "Ankka",
+    "role": "Employee",
+    "supervisor": "ankkaaku"
+  },
+  "ankkaleenu": {
+    "first": "Leenu",
+    "last": "Ankka",
+    "role": "Employee",
+    "supervisor": "ankkaiines"
+  },
+  "ankkaliinu": {
+    "first": "Liinu",
+    "last": "Ankka",
+    "role": "Employee",
+    "supervisor": "ankkaiines"
+  },
+  "ankkatiinu": {
+    "first": "Tiinu",
+    "last": "Ankka",
+    "role": "Employee",
+    "supervisor": "ankkaiines"
+  }
+
+}
+
